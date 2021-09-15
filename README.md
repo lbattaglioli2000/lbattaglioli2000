@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**lbattaglioli2000/lbattaglioli2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a new project, Abacus!
+- 🌱 I’m teaching myself a lot of different things. I'm focusing on:
+  - Swift and SwiftUI
+  - Python and Data Science
+  - Laravel Livewire
+- 👯 I’d absolutely love to collaborate on any web projects your working on.
+- 💬 Ask me about mentoring! I'd love to share my knowledge, especially if you're new to programming!
+- 📫 How to reach me: him@theluigi.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: When I was a kid I got a piece of uncooked spaghetti stuck in my ear.
