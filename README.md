@@ -9,4 +9,4 @@
 - 💬 Ask me about mentoring! I'd love to share my knowledge, especially if you're new to programming!
 - 📫 How to reach me: him@theluigi.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: When I was a kid I got a piece of uncooked spaghetti stuck in my ear.
+- ⚡ Fun fact: One time when I was a lil' kid, I got a piece of uncooked spaghetti stuck in my ear.
