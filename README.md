@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a new project, Abacus!
+- 🚀 Currently, I'm working as CTO and Co-Founder at Eorbi, Inc.
+- 🔭 I’m currently working on a side project, Abacus!
 - 🌱 I’m teaching myself a lot of different things. I'm focusing on:
   - Swift and SwiftUI
   - Python and Data Science
