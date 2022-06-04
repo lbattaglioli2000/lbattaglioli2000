@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 Currently, I'm working as CTO and Co-Founder at Eorbi, Inc.
+- 🚀 Currently, I'm working as developer at Deevoted!
 - 🔭 I’m currently working on a side project, Abacus!
 - 🌱 I’m teaching myself a lot of different things. I'm focusing on:
   - Realtime event broadcasting
